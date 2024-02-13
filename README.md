@@ -1,4 +1,4 @@
-~This code is a simple computer program for a hotel to create an easy system for bookings, it works like this~
+This code is a simple computer program for a hotel to create an easy system for bookings, it works like this.
 
 When the program starts, it sets up a hotel with a certain number of rooms that people can book.
 It shows which rooms are free (not booked yet) and lets someone pick a room they want.
