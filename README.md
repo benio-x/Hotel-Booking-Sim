@@ -7,4 +7,4 @@ After booking a room, it asks if they want to book another room. They can keep b
 In the end, it tells them how many rooms they've booked and says goodbye.
 The program is meant to make booking hotel rooms simple by just picking room numbers and following simple yes or no questions:)
 
-can be run by entering g++ main.cpp into your terminal, click enter, then type ./a.out
+*can be run by entering g++ main.cpp into your terminal, click enter, then type ./a.out
